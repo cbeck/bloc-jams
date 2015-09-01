@@ -5,6 +5,11 @@ body.album {
      background-position: center center;
      background-size: cover;
  }
+
+
+th {
+  text-align: left;
+}
  
  .album-cover-art {
      position: relative;
@@ -48,15 +53,19 @@ body.album {
  }
  
  .song-item-number {
-     width: 5%;
+     width: 8%;
  }
  
  .song-item-title {
-     width: 85%;
+     width: 71%;
  }
  
  .song-item-duration {
-     width: 5%;
+     width: 8%;
+ }
+
+ .song-item-plays {
+   width: 8%;
  }
 
  /* #2 */
